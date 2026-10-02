@@ -1,0 +1,10 @@
+torch>=2.10.0
+torchvision>=0.15.0
+timm==0.4.12
+einops==0.6.1
+decord==0.6.0
+gdown
+numpy
+matplotlib
+scikit-learn
+Pillow
